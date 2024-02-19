@@ -1,3 +1,6 @@
+import { config } from "dotenv";
+config();
+
 import express from "express";
 import cors from "cors";
 import { addPost, deleteOldestPost, loadJSON as loadJson } from "./funcs.js";

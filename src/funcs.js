@@ -1,4 +1,6 @@
 import { readFileSync } from "fs";
+import { config } from "dotenv";
+config();
 
 const min = parseFloat(process.env.min || 3), max = parseFloat(process.env.max || 5);
 
