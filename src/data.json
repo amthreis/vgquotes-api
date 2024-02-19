@@ -1,0 +1,220 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "character": "Miluda",
+            "portraitUrl": "https://i.imgur.com/rH4HiCB.png",
+            "quote": "You may not see the world beyond your high walls, but that does not mean they mark its boundaries."
+        },
+        {
+            "id": 1,
+            "character": "Miluda",
+            "portraitUrl": "https://i.imgur.com/rH4HiCB.png",
+            "quote": "How can you nobles live as you do and yet hold your heads so high? We are not chattel! We are humans, no less than you! What flaw do you hold thereto be in us? That we were born between a different set of walls? Do you know what it means to hunger? To sup for months on naught but broth of bean? Why must we be made to starve that you might grow fat? You call us thieves, but it is you who steal from us the right to live!"
+        },
+        {
+            "id": 2,
+            "character": "CJ",
+            "portraitUrl": "https://i.imgur.com/COVmjmY.png",
+            "quote": "Lady, I’m a God fearin’, peace lovin’ man of the people!"
+            
+        },
+        {
+            "id": 3,
+            "character": "CJ",
+            "portraitUrl": "https://i.imgur.com/COVmjmY.png",
+            "quote": "I’m a well-dressed maniac!"
+            
+        },
+        {
+            "id": 4,
+            "character": "CJ",
+            "portraitUrl": "https://i.imgur.com/COVmjmY.png",
+            "quote": "How are you allowed to drive if you're blind?!"
+            
+        },
+        {
+            "id": 5,
+            "character": "John Marston",
+            "portraitUrl": "https://i.imgur.com/OFml1Ci.png",
+            "quote": "If you find yourself in a hole, the first thing to do is stop diggin'."
+        },
+        {
+            "id": 6,
+            "character": "John Marston",
+            "portraitUrl": "https://i.imgur.com/OFml1Ci.png",
+            "quote": "Why are you so interested in my life? Haven't you got one of your own?."
+        },
+        {
+            "id": 7,
+            "character": "John Marston",
+            "portraitUrl": "https://i.imgur.com/OFml1Ci.png",
+            "quote": "You are going to infierno, my friend!"
+        },
+        {
+            "id": 8,
+            "character": "Fantastic",
+            "portraitUrl": "https://i.imgur.com/UTkekrG.png",
+            "quote": "They asked me how well I understood theoretical physics. I said I had a theoretical degree in physics. They said welcome aboard."
+        },
+        {
+            "id": 9,
+            "character": "Fantastic",
+            "portraitUrl": "https://i.imgur.com/UTkekrG.png",
+            "quote": "I push buttons. I turn dials. I read numbers. Sometimes I make up little stories in my head about what the numbers mean."
+        },
+        {
+            "id": 10,
+            "character": "Emerald Herald",
+            "portraitUrl": "https://i.imgur.com/6BF5g7d.png",
+            "quote": "Are you...the next monarch? Or... Merely a pawn of fate? Bearer of the curse... I will remain by your side. Till this frail hope shatters... Take this with you. May it ease your journey. Go on, and see the King. He who made Drangleic what it once was; he who peered at the essence of the soul. King Vendrick."
+        },
+        {
+            "id": 11,
+            "character": "Emerald Herald",
+            "portraitUrl": "https://i.imgur.com/6BF5g7d.png",
+            "quote": "Bearer of the curse... Seek souls. Larger, more powerful souls. Seek the King, that is the only way. Lest this land swallow you whole... As it has so many others."
+        },
+        {
+            "id": 12,
+            "character": "Yangus",
+            "portraitUrl": "https://i.imgur.com/5Xrn0n1.png",
+            "quote": "That bloke through the Moonshadow window's a bit of a myst'ry, ain't 'e? First we find 'im in Ascantha, an' then we bump into 'im again in Grandad's castle. I s'pose it's more of a myst'ry wot I was doin' in a library though, eh!?"
+        },
+        {
+            "id": 13,
+            "character": "Yangus",
+            "portraitUrl": "https://i.imgur.com/5Xrn0n1.png",
+            "quote": "You plannin' on goin' all 'round the world to see 'ow people are copin' wiv Rhapthorne bein' back on the scene, guv? Wot a nice bloke you are! I'd never be bothered to go to all that effort, meself!"
+        },
+        {
+            "id": 14,
+            "character": "Yangus",
+            "portraitUrl": "https://i.imgur.com/5Xrn0n1.png",
+            "quote": "It looks like a castle, but it ain't very big, eh? An' it ain't in very good shape, neither. Bit weird if you ask me."
+        },
+        {
+            "id": 15,
+            "character": "King Trode",
+            "portraitUrl": "https://i.imgur.com/4KalJXv.png",
+            "quote": "I shan't be returning here again until we've defeated Dhoulmagus. Be strong without your King, my dear castle. And my beloved people, fare thee well. I will be back as soon as possible."
+        },
+        {
+            "id": 16,
+            "character": "King Trode",
+            "portraitUrl": "https://i.imgur.com/4KalJXv.png",
+            "quote": "What are you flapping about!? I've been here the whole time, you twit!"
+        },
+        {
+            "id": 17,
+            "character": "King Trode",
+            "portraitUrl": "https://i.imgur.com/4KalJXv.png",
+            "quote": "Ta-daaa! Looks like a normal pot, doesn't it? But it's actually a legendary alchemy pot!"
+        },
+        {
+            "id": 18,
+            "character": "Trevor Phillips",
+            "portraitUrl": "https://i.imgur.com/HY6ZkpG.png",
+            "quote": "I abhor hipsters. I eat them for fun!"
+        },
+        {
+            "id": 19,
+            "character": "Trevor Phillips",
+            "portraitUrl": "https://i.imgur.com/HY6ZkpG.png",
+            "quote": "Oh man, oh man, oh man... oh man... I'm not tough at all, I'm not tough. I'm just a baby. I'm a baby, I hate myself. I always have. I always have, that's the truth. A baby."
+        },
+        {
+            "id": 20,
+            "character": "Trevor Phillips",
+            "portraitUrl": "https://i.imgur.com/HY6ZkpG.png",
+            "quote": "Stop pretending to be crazy. I mean, it's not fooling anyone. You just don't like washing very much!"
+        },
+        {
+            "id": 21,
+            "character": "Luca Blight",
+            "portraitUrl": "https://i.imgur.com/4GK9irS.png",
+            "quote": "Hoo hoo ha ha ha!!! Relax! I've chopped hundreds, thousands of necks. I can do it with my eyes closed."
+        },
+        {
+            "id": 22,
+            "character": "Luca Blight",
+            "portraitUrl": "https://i.imgur.com/4GK9irS.png",
+            "quote": "To end this war? That's a fairy tale... it's a foolish child's dream. Even if you kill me and defeat Highland, you won't have peace! You'll have a defeated country screaming for our vengeance."
+        },
+        {
+            "id": 23,
+            "character": "Luca Blight",
+            "portraitUrl": "https://i.imgur.com/4GK9irS.png",
+            "quote": "DIE PIG!"
+        },
+        {
+            "id": 24,
+            "character": "Nanami",
+            "portraitUrl": "https://i.imgur.com/T2RffSq.png",
+            "quote": "In the name of Grandpa Genkaku, Here's his secret: Golden Bird Holy Flower Glory Dragon Tooth Punch!"
+        },
+        {
+            "id": 25,
+            "character": "Nanami",
+            "portraitUrl": "https://i.imgur.com/T2RffSq.png",
+            "quote": "Are you JEALOUS? Don't worry, Riou! Maybe one day you'll be cool too!"
+        },
+        {
+            "id": 26,
+            "character": "Nanami",
+            "portraitUrl": "https://i.imgur.com/T2RffSq.png",
+            "quote": "Yay! Teacher Flik, Teacher Flik!"
+        },
+        {
+            "id": 27,
+            "character": "8-Ball",
+            "portraitUrl": "https://i.imgur.com/IcglGCr.png",
+            "quote": "I know a place on the edge of the Red Light District where we can lay low , but my hands are all messed up so you better drive, brother."
+        },
+        {
+            "id": 28,
+            "character": "Delita",
+            "portraitUrl": "https://i.imgur.com/Q7VXvlg.png",
+            "quote": "Disrupt the ''order''? This ''order'' you talk about is just a matter of your own convienence!! Using ''God'' as an ''order'' to control the people is absurd. You have no right to take advantage of the innocent."
+        },
+        {
+            "id": 29,
+            "character": "Delita",
+            "portraitUrl": "https://i.imgur.com/Q7VXvlg.png",
+            "quote": "I sell my sword to no one! Do not count me among your lot!"
+        },
+        {
+            "id": 30,
+            "character": "Delita",
+            "portraitUrl": "https://i.imgur.com/Q7VXvlg.png",
+            "quote": "Make your peace with the gods, Algus! You die by my hand!"
+        },
+        {
+            "id": 31,
+            "character": "Delita",
+            "portraitUrl": "https://i.imgur.com/Q7VXvlg.png",
+            "quote": "I am Delita Heiral, a Blackram lieutenant in the service of His Excellency the Baron Grimms. His Excellency dispatched me to rescue the princess. And so I did, disguised as one of your own - a sheep in Lion's clothing. Now I have returned."
+        },
+        {
+            "id": 32,
+            "character": "Fran",
+            "portraitUrl": "https://i.imgur.com/Skdb9no.png",
+            "quote": "The gods do not smile on us."
+        },
+        {
+            "id": 33,
+            "character": "Fran",
+            "portraitUrl": "https://i.imgur.com/Skdb9no.png",
+            "quote": "In vainglory they arose, shouting challenges at the gods. But prevail they did not. Their doom it was to walk the mist until time's end. A legend of the nu mou."
+        },
+        {
+            "id": 34,
+            "character": "Fran",
+            "portraitUrl": "https://i.imgur.com/Skdb9no.png",
+            "quote": "Do not do this. You must remain away from the humes. Stay with the wood. Live together with the wood. This is your way."
+        }
+
+        
+        
+    ]
+}

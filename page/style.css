@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#overlay {
+    background-color: rgba(0, 0, 0, 0.767);
+    position: fixed;
+    left: 0;
+    top:0;
+    right: 0;
+    bottom: 0;
+
+    color: white;
+    font-size: 24px;
+
+}
+
+#content {
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.card {
+
+    display: flex;
+    gap: 8px;
+
+    > img {
+        border-radius: 50%;
+        object-fit: cover;
+    }
+
+}
+
+.cardContent {
+
+    display: flex;
+    flex-direction: column;
+}
